@@ -1,0 +1,803 @@
+[
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "rating": 4.5,
+      "body": "A woman's perfect life takes a dark turn when she shoots her husband and then refuses to speak. A psychotherapist tries to uncover her secrets."
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "rating": 4.7,
+      "body": "In a quiet town on the North Carolina coast, a young woman who lives in the marsh becomes a suspect in the murder of a local golden boy."
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "rating": 4.6,
+      "body": "A woman finds herself in a library between life and death where she can explore different versions of her life and decide which one is truly worth living."
+    },
+      {
+          "userId": 1,
+          "id": 4,
+          "title": "Project Hail Mary",
+          "author": "Andy Weir",
+          "rating": 4.8,
+          "body": "An astronaut wakes up with amnesia on a spaceship and must piece together his mission to save humanity from an extinction-level threat."
+        },
+        {
+          "userId": 1,
+          "id": 5,
+          "title": "Klara and the Sun",
+          "author": "Kazuo Ishiguro",
+          "rating": 4.4,
+          "body": "An Artificial Friend named Klara observes the world from her place in a store, hoping to be chosen by a child. When she is, she learns about love, loss, and sacrifice."
+        },
+        {
+          "userId": 1,
+          "id": 6,
+          "title": "The Seven Husbands of Evelyn Hugo",
+          "author": "Taylor Jenkins Reid",
+          "rating": 4.9,
+          "body": "A reclusive Hollywood star chooses an unknown magazine reporter to tell her life story, revealing shocking secrets about her seven marriages."
+        },
+        {
+          "userId": 1,
+          "id": 7,
+          "title": "Dune",
+          "author": "Frank Herbert",
+          "rating": 4.7,
+          "body": "In the distant future, a noble family becomes embroiled in a power struggle over the harsh desert planet Arrakis, the only source of the valuable substance melange."
+        },
+        {
+          "userId": 1,
+          "id": 8,
+          "title": "The House in the Cerulean Sea",
+          "author": "TJ Klune",
+          "rating": 4.8,
+          "body": "A case worker in charge of magical youth is sent to investigate an orphanage on a remote island and discovers a secret that will change his life."
+        },
+        {
+          "userId": 1,
+          "id": 9,
+          "title": "A Court of Thorns and Roses",
+          "author": "Sarah J. Maas",
+          "rating": 4.5,
+          "body": "A young huntress is taken to a magical land after killing a faerie wolf and finds herself caught up in a dangerous game of love and power."
+        },
+        {
+          "userId": 1,
+          "id": 10,
+          "title": "The Song of Achilles",
+          "author": "Madeline Miller",
+          "rating": 4.9,
+          "body": "A retelling of the Trojan War from the perspective of Patroclus, the exiled young prince who becomes Achilles' closest companion."
+        },
+      {
+          "userId": 2,
+          "id": 11,
+          "title": "The Girl with the Dragon Tattoo",
+          "author": "Stieg Larsson",
+          "rating": 4.6,
+          "body": "A disgraced journalist and a young female hacker team up to investigate the disappearance of a young woman from a wealthy family."
+        },
+      {
+          "userId": 2,
+          "id": 12,
+          "title": "The Book Thief",
+          "author": "Markus Zusak",
+          "rating": 4.8,
+          "body": "In Nazi Germany, a young girl steals books to learn to read and finds solace in stories amidst the horrors of war."
+        },
+      {
+          "userId": 2,
+          "id": 13,
+          "title": "The Hitchhiker's Guide to the Galaxy",
+          "author": "Douglas Adams",
+          "rating": 4.7,
+          "body": "Seconds before Earth is demolished to make way for a galactic freeway, Arthur Dent is plucked off the planet by his friend Ford Prefect."
+      },
+      {
+          "userId": 2,
+          "id": 14,
+          "title": "1984",
+          "author": "George Orwell",
+          "rating": 4.9,
+          "body": "In a dystopian future, a man rebels against a totalitarian regime that controls every aspect of life and thought."
+      },
+      {
+          "userId": 2,
+          "id": 15,
+          "title": "To Kill a Mockingbird",
+          "author": "Harper Lee",
+          "rating": 4.8,
+          "body": "In the racially charged South, a lawyer defends a black man accused of rape and teaches his children about justice and empathy."
+      },
+      {
+          "userId": 2,
+          "id": 16,
+          "title": "Pride and Prejudice",
+          "author": "Jane Austen",
+          "rating": 4.7,
+          "body": "In 19th-century England, the Bennet sisters navigate love, marriage, and societal expectations."
+      },
+      {
+          "userId": 2,
+          "id": 17,
+          "title": "The Lord of the Rings",
+          "author": "J.R.R. Tolkien",
+          "rating": 4.9,
+          "body": "In Middle-earth, a hobbit named Frodo Baggins embarks on a quest to destroy the One Ring and defeat the Dark Lord Sauron."
+      },
+      {
+          "userId": 2,
+          "id": 18,
+          "title": "Harry Potter and the Sorcerer's Stone",
+          "author": "J.K. Rowling",
+          "rating": 4.8,
+          "body": "On his eleventh birthday, Harry Potter learns that he is a wizard and is invited to attend Hogwarts School of Witchcraft and Wizardry."
+      },
+      {
+          "userId": 2,
+          "id": 19,
+          "title": "The Catcher in the Rye",
+          "author": "J.D. Salinger",
+          "rating": 4.6,
+          "body": "A disillusioned teenager named Holden Caulfield wanders around New York City after being expelled from prep school."
+      },
+      {
+          "userId": 2,
+          "id": 20,
+          "title": "Little Women",
+          "author": "Louisa May Alcott",
+          "rating": 4.7,
+          "body": "The March sisters grow up during the Civil War, learning about love, loss, and the importance of family."
+      },
+      {
+          "userId": 3,
+          "id": 21,
+          "title": "The Da Vinci Code",
+          "author": "Dan Brown",
+          "rating": 4.5,
+          "body": "A symbologist and a cryptologist follow a trail of clues hidden in Da Vinci's artwork to uncover a secret that could shake the foundations of Christianity."
+      },
+      {
+          "userId": 3,
+          "id": 22,
+          "title": "Gone Girl",
+          "author": "Gillian Flynn",
+          "rating": 4.6,
+          "body": "On their fifth wedding anniversary, Nick Dunne's wife Amy disappears, and he becomes the prime suspect in her disappearance."
+      },
+      {
+          "userId": 3,
+          "id": 23,
+          "title": "The Girl on the Train",
+          "author": "Paula Hawkins",
+          "rating": 4.4,
+          "body": "A woman who takes the same commuter train every day becomes obsessed with a couple she sees from the train and finds herself involved in a murder mystery."
+      },
+      {
+        "userId": 3,
+        "id": 24,
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "rating": 4.7,
+        "body": "In a dystopian future, a teenage girl named Katniss Everdeen volunteers to take her sister's place in a televised fight to the death."
+    },
+    {
+        "userId": 3,
+        "id": 25,
+        "title": "The Fault in Our Stars",
+        "author": "John Green",
+        "rating": 4.8,
+        "body": "Two cancer patients meet at a support group and fall in love, learning about life, loss, and the importance of living in the moment."
+    },
+    {
+        "userId": 3,
+        "id": 26,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "rating": 4.6,
+        "body": "A young shepherd named Santiago follows his dreams and travels to Egypt in search of treasure, learning about life's journey and listening to his heart."
+    },
+    {
+        "userId": 3,
+        "id": 27,
+        "title": "And Then There Were None",
+        "author": "Agatha Christie",
+        "rating": 4.7,
+        "body": "Ten strangers are invited to a remote island and are killed off one by one, following the pattern of a nursery rhyme."
+    },
+    {
+        "userId": 3,
+        "id": 28,
+        "title": "The Help",
+        "author": "Kathryn Stockett",
+        "rating": 4.8,
+        "body": "In the 1960s, a young white woman in Mississippi writes a book about the experiences of black maids, exposing the racism and injustice of the time."
+    },
+    {
+        "userId": 3,
+        "id": 29,
+        "title": "The Secret Garden",
+        "author": "Frances Hodgson Burnett",
+        "rating": 4.6,
+        "body": "A spoiled young girl discovers a secret garden on her uncle's estate and learns about friendship, nature, and the power of hope."
+    },
+    {
+        "userId": 3,
+        "id": 30,
+        "title": "The Little Prince",
+        "author": "Antoine de Saint-Exupéry",
+        "rating": 4.7,
+        "body": "A pilot stranded in the desert meets a young prince who has fallen to Earth from a tiny asteroid, and learns about love, loss, and the importance of imagination."
+    },
+    {
+        "userId": 4,
+        "id": 31,
+        "title": "The Handmaid's Tale",
+        "author": "Margaret Atwood",
+        "rating": 4.6,
+        "body": "In a dystopian future where women have no rights, a woman named Offred is forced to serve as a Handmaid, bearing children for the ruling class."
+    },
+    {
+        "userId": 4,
+        "id": 32,
+        "title": "The Shining",
+        "author": "Stephen King",
+        "rating": 4.7,
+        "body": "A family becomes isolated in a haunted hotel during the winter, and the father descends into madness, terrorizing his wife and son."
+    },
+    {
+        "userId": 4,
+        "id": 33,
+        "title": "The Martian",
+        "author": "Andy Weir",
+        "rating": 4.8,
+        "body": "An astronaut is stranded on Mars after a mission goes wrong and must use his ingenuity and scientific knowledge to survive until rescue."
+    },
+    {
+        "userId": 4,
+        "id": 34,
+        "title": "The Lord of the Flies",
+        "author": "William Golding",
+        "rating": 4.5,
+        "body": "A group of British boys are stranded on a deserted island after their plane crashes, and their society descends into savagery and violence."
+    },
+    {
+        "userId": 4,
+        "id": 35,
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "rating": 4.6,
+        "body": "A young man sells his soul to maintain his youthful beauty, and his portrait reflects his moral decay."
+    },
+    {
+        "userId": 4,
+        "id": 36,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "rating": 4.7,
+        "body": "In the Roaring Twenties, a mysterious millionaire named Jay Gatsby throws lavish parties in hopes of reuniting with his lost love, Daisy Buchanan."
+    },
+    {
+        "userId": 4,
+        "id": 37,
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "rating": 4.8,
+        "body": "An orphaned young woman becomes a governess at Thornfield Hall and falls in love with her enigmatic employer, Mr. Rochester."
+    },
+    {
+        "userId": 4,
+        "id": 38,
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "rating": 4.6,
+        "body": "A tale of love, revenge, and tragedy set on the Yorkshire moors, involving the Earnshaw and Linton families."
+    },
+    {
+        "userId": 4,
+        "id": 39,
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "rating": 4.7,
+        "body": "A young boy named Huckleberry Finn escapes his abusive father and travels down the Mississippi River with a runaway slave named Jim."
+    },
+    {
+        "userId": 4,
+        "id": 40,
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "rating": 4.5,
+        "body": "Captain Ahab obsessively pursues a giant white whale named Moby Dick, leading his crew on a dangerous and destructive voyage."
+    },
+    {
+        "userId": 5,
+        "id": 41,
+        "title": "The Odyssey",
+        "author": "Homer",
+        "rating": 4.6,
+        "body": "The epic journey of Odysseus, king of Ithaca, as he struggles to return home after the Trojan War, facing many obstacles and adventures."
+    },
+    {
+        "userId": 5,
+        "id": 42,
+        "title": "The Iliad",
+        "author": "Homer",
+        "rating": 4.7,
+        "body": "The story of the Trojan War, focusing on the wrath of Achilles and the battle between the Greeks and Trojans."
+    },
+    {
+        "userId": 5,
+        "id": 43,
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "rating": 4.8,
+        "body": "An allegorical journey through Hell, Purgatory, and Paradise, guided by the Roman poet Virgil."
+    },
+    {
+        "userId": 5,
+        "id": 44,
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "rating": 4.6,
+        "body": "The adventures of a delusional nobleman who sets out to revive chivalry, accompanied by his squire Sancho Panza."
+    },
+    {
+        "userId": 5,
+        "id": 45,
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "rating": 4.7,
+        "body": "The multi-generational saga of the Buendía family in the fictional town of Macondo, Colombia."
+    },
+    {
+        "userId": 5,
+        "id": 46,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "rating": 4.8,
+        "body": "A poor student murders a pawnbroker and is tormented by guilt and paranoia as he tries to evade the police."
+    },
+    {
+        "userId": 5,
+        "id": 47,
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "rating": 4.9,
+        "body": "A sweeping epic set during the Napoleonic Wars, following the lives of five aristocratic Russian families."
+    },
+    {
+        "userId": 5,
+        "id": 48,
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "rating": 4.7,
+        "body": "A married woman has an affair with a young officer, leading to social ostracism and personal tragedy."
+    },
+    {
+        "userId": 5,
+        "id": 49,
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert",
+        "rating": 4.6,
+        "body": "A bored housewife seeks excitement and romance outside of her marriage, leading to financial ruin and despair."
+    },
+    {
+        "userId": 5,
+        "id": 50,
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "rating": 4.5,
+        "body": "A man is indifferent to the world around him and is arrested for murdering a man on a beach, leading to an existential exploration of life and meaning."
+    },
+    {
+        "userId": 6,
+        "id": 51,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "rating": 4.3,
+        "body": "Holden Caulfield, a cynical teenager, narrates his expulsion from boarding school and his subsequent wanderings through New York City."
+    },
+    {
+        "userId": 6,
+        "id": 52,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "rating": 4.6,
+        "body": "Jay Gatsby, a self-made millionaire, throws extravagant parties in the hopes of reuniting with his former love, Daisy Buchanan."
+    },
+    {
+        "userId": 6,
+        "id": 53,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "rating": 4.8,
+        "body": "Scout Finch narrates the story of her father, Atticus Finch, a lawyer who defends a black man falsely accused of rape in the racially charged American South."
+    },
+    {
+        "userId": 6,
+        "id": 54,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "rating": 4.5,
+        "body": "The Bennet sisters navigate love, marriage, and social expectations in 19th-century England."
+    },
+    {
+        "userId": 6,
+        "id": 55,
+        "title": "1984",
+        "author": "George Orwell",
+        "rating": 4.7,
+        "body": "Winston Smith rebels against the totalitarian state of Oceania, where Big Brother controls every aspect of life."
+    },
+    {
+        "userId": 6,
+        "id": 56,
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "rating": 4.4,
+        "body": "Animals on a farm revolt against their human farmer, but their revolution is betrayed, and they end up under the rule of the pigs."
+    },
+    {
+        "userId": 6,
+        "id": 57,
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "rating": 4.9,
+        "body": "Frodo Baggins and his companions embark on a quest to destroy the One Ring and defeat the Dark Lord Sauron in Middle-earth."
+    },
+    {
+        "userId": 6,
+        "id": 58,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "rating": 4.7,
+        "body": "Bilbo Baggins, a hobbit, goes on an adventure with a group of dwarves to reclaim their treasure from the dragon Smaug."
+    },
+    {
+        "userId": 6,
+        "id": 59,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "rating": 4.8,
+        "body": "Harry Potter discovers he is a wizard and attends Hogwarts School of Witchcraft and Wizardry."
+    },
+    {
+        "userId": 6,
+        "id": 60,
+        "title": "The Chronicles of Narnia",
+        "author": "C.S. Lewis",
+        "rating": 4.6,
+        "body": "The Pevensie children discover the magical world of Narnia through a wardrobe and become involved in the battle between good and evil."
+    },
+    {
+        "userId": 7,
+        "id": 61,
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "rating": 4.4,
+        "body": "Arthur Dent's adventures as he travels through the galaxy with his friend Ford Prefect after Earth is destroyed."
+    },
+    {
+        "userId": 7,
+        "id": 62,
+        "title": "The Restaurant at the End of the Universe",
+        "author": "Douglas Adams",
+        "rating": 4.6,
+        "body": "The second book in the Hitchhiker's Guide to the Galaxy series, where Arthur Dent and his companions continue their hilarious and absurd adventures."
+    },
+    {
+        "userId": 7,
+        "id": 63,
+        "title": "Life, the Universe and Everything",
+        "author": "Douglas Adams",
+        "rating": 4.5,
+        "body": "The third book in the Hitchhiker's Guide to the Galaxy series, where Arthur Dent and his friends search for the ultimate question to life, the universe, and everything."
+    },
+    {
+        "userId": 7,
+        "id": 64,
+        "title": "So Long, and Thanks for All the Fish",
+        "author": "Douglas Adams",
+        "rating": 4.3,
+        "body": "The fourth book in the Hitchhiker's Guide to the Galaxy series, where Arthur Dent returns to a recreated Earth and falls in love."
+    },
+    {
+        "userId": 7,
+        "id": 65,
+        "title": "Mostly Harmless",
+        "author": "Douglas Adams",
+        "rating": 4.2,
+        "body": "The fifth and final book in the Hitchhiker's Guide to the Galaxy series, where the Earth is destroyed again, and Arthur Dent faces the end of the universe."
+    },
+    {
+        "userId": 7,
+        "id": 66,
+        "title": "The Man in the High Castle",
+        "author": "Philip K. Dick",
+        "rating": 4.6,
+        "body": "An alternate history where the Axis powers won World War II, and the United States is divided between Japan and Nazi Germany."
+    },
+    {
+        "userId": 7,
+        "id": 67,
+        "title": "Do Androids Dream of Electric Sheep?",
+        "author": "Philip K. Dick",
+        "rating": 4.5,
+        "body": "A bounty hunter tracks down rogue androids in a post-apocalyptic San Francisco, questioning the nature of humanity and reality."
+    },
+    {
+        "userId": 7,
+        "id": 68,
+        "title": "Ubik",
+        "author": "Philip K. Dick",
+        "rating": 4.4,
+        "body": "A group of anti-psychics are attacked, and their world begins to unravel as reality itself becomes unstable."
+    },
+    {
+        "userId": 7,
+        "id": 69,
+        "title": "A Scanner Darkly",
+        "author": "Philip K. Dick",
+        "rating": 4.3,
+        "body": "An undercover narcotics agent becomes addicted to the drug he is investigating, leading to a fragmented and paranoid reality."
+    },
+    {
+        "userId": 7,
+        "id": 70,
+        "title": "Flow My Tears, the Policeman Said",
+        "author": "Philip K. Dick",
+        "rating": 4.2,
+        "body": "A famous television personality wakes up one day to find that no one remembers who he is, and he is trapped in a bizarre and shifting reality."
+    },
+    {
+        "userId": 8,
+        "id": 71,
+        "title": "The Foundation",
+        "author": "Isaac Asimov",
+        "rating": 4.7,
+        "body": "Hari Seldon, a psychohistorian, predicts the fall of the Galactic Empire and creates a Foundation to preserve knowledge and rebuild civilization."
+    },
+    {
+        "userId": 8,
+        "id": 72,
+        "title": "Foundation and Empire",
+        "author": "Isaac Asimov",
+        "rating": 4.6,
+        "body": "The Foundation faces challenges from the remnants of the Galactic Empire and a powerful mutant known as The Mule."
+    },
+    {
+        "userId": 8,
+        "id": 73,
+        "title": "Second Foundation",
+        "author": "Isaac Asimov",
+        "rating": 4.5,
+        "body": "The Foundation searches for the Second Foundation, a secret organization that is crucial to Hari Seldon's plan for the future."
+    },
+    {
+        "userId": 8,
+        "id": 74,
+        "title": "Foundation's Edge",
+        "author": "Isaac Asimov",
+        "rating": 4.4,
+        "body": "Golan Trevize, a Councilman of the Foundation, investigates a mysterious planet called Gaia and must make a decision that will affect the future of humanity."
+    },
+    {
+        "userId": 8,
+        "id": 75,
+        "title": "Foundation and Earth",
+        "author": "Isaac Asimov",
+        "rating": 4.3,
+        "body": "Golan Trevize continues his search for the origins of humanity and encounters a powerful entity that holds the key to the future."
+    },
+    {
+        "userId": 8,
+        "id": 76,
+        "title": "The Robots of Dawn",
+        "author": "Isaac Asimov",
+        "rating": 4.6,
+        "body": "Detective Elijah Baley investigates a roboticide on the planet Aurora, uncovering secrets that could threaten the relationship between humans and robots."
+    },
+    {
+        "userId": 8,
+        "id": 77,
+        "title": "Robots and Empire",
+        "author": "Isaac Asimov",
+        "rating": 4.5,
+        "body": "Elijah Baley's descendants face challenges as they try to establish a human presence in the galaxy, while robots play an increasingly important role."
+    },
+    {
+        "userId": 8,
+        "id": 78,
+        "title": "The Caves of Steel",
+        "author": "Isaac Asimov",
+        "rating": 4.4,
+        "body": "Elijah Baley teams up with a humanoid robot named R. Daneel Olivaw to solve a murder in a crowded city on Earth."
+    },
+    {
+        "userId": 8,
+        "id": 79,
+        "title": "The Naked Sun",
+        "author": "Isaac Asimov",
+        "rating": 4.3,
+        "body": "Elijah Baley investigates a murder on the planet Solaria, where humans live in isolation and rely on robots for all their needs."
+    },
+    {
+        "userId": 8,
+        "id": 80,
+        "title": "The Gods Themselves",
+        "author": "Isaac Asimov",
+        "rating": 4.2,
+        "body": "Humans discover a parallel universe and establish contact with aliens, but their interaction threatens to destabilize both universes."
+    },
+    {
+        "userId": 9,
+        "id": 81,
+        "title": "The Left Hand of Darkness",
+        "author": "Ursula K. Le Guin",
+        "rating": 4.5,
+        "body": "Genly Ai, an envoy from Earth, visits the planet Gethen, where the inhabitants are ambisexual and can change their sex at will."
+    },
+    {
+        "userId": 9,
+        "id": 82,
+        "title": "The Dispossessed",
+        "author": "Ursula K. Le Guin",
+        "rating": 4.6,
+        "body": "Shevek, a physicist from the anarchist planet Anarres, visits the capitalist planet Urras, challenging the social and political norms of both worlds."
+    },
+    {
+        "userId": 9,
+        "id": 83,
+        "title": "A Wizard of Earthsea",
+        "author": "Ursula K. Le Guin",
+        "rating": 4.4,
+        "body": "Ged, a young wizard, learns to control his powers and faces the consequences of his arrogance and mistakes."
+    },
+    {
+        "userId": 9,
+        "id": 84,
+        "title": "The Tombs of Atuan",
+        "author": "Ursula K. Le Guin",
+        "rating": 4.3,
+        "body": "Tenar, a young priestess, is trapped in a labyrinthine temple and encounters Ged, the wizard, leading to a confrontation between their beliefs and powers."
+    },
+    {
+        "userId": 9,
+        "id": 85,
+        "title": "The Farthest Shore",
+        "author": "Ursula K. Le Guin",
+        "rating": 4.2,
+        "body": "Ged and Arren, the prince of Enlad, journey to the edge of the world to restore the balance of magic and prevent the world from fading."
+    },
+    {
+        "userId": 9,
+        "id": 86,
+        "title": "Tehanu",
+        "author": "Ursula K. Le Guin",
+        "rating": 4.1,
+        "body": "Tenar, now an older woman, cares for a young girl who has been abused and abandoned, exploring themes of power, gender, and healing."
+    },
+    {
+        "userId": 9,
+        "id": 87,
+        "title": "The Lathe of Heaven",
+        "author": "Ursula K. Le Guin",
+        "rating": 4.4,
+        "body": "George Orr, a man whose dreams alter reality, is manipulated by a psychiatrist who tries to use his powers to reshape the world."
+    },
+    {
+        "userId": 9,
+        "id": 88,
+        "title": "The Word for World is Forest",
+        "author": "Ursula K. Le Guin",
+        "rating": 4.3,
+        "body": "The peaceful Athsheans, who live in harmony with their forest world, are exploited and enslaved by human colonists, leading to a conflict between cultures and values."
+    },
+    {
+        "userId": 9,
+        "id": 89,
+        "title": "The Telling",
+        "author": "Ursula K. Le Guin",
+        "rating": 4.2,
+        "body": "Sutty, an observer from the Ekumen, visits the planet Aka, where the government suppresses the ancient Telling, a complex system of beliefs and rituals."
+    },
+    {
+        "userId": 9,
+        "id": 90,
+        "title": "Always Coming Home",
+        "author": "Ursula K. Le Guin",
+        "rating": 4.1,
+        "body": "A collection of stories, poems, and anthropological notes about the Kesh, a people who live in a sustainable and egalitarian society in a future California."
+    },
+    {
+        "userId": 10,
+        "id": 91,
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "rating": 4.9,
+        "body": "Frodo Baggins and his companions embark on a quest to destroy the One Ring and defeat the Dark Lord Sauron in Middle-earth."
+    },
+    {
+        "userId": 10,
+        "id": 92,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "rating": 4.7,
+        "body": "Bilbo Baggins, a hobbit, goes on an adventure with a group of dwarves to reclaim their treasure from the dragon Smaug."
+    },
+    {
+        "userId": 10,
+        "id": 93,
+        "title": "The Silmarillion",
+        "author": "J.R.R. Tolkien",
+        "rating": 4.6,
+        "body": "A collection of myths and legends that tell the history of Middle-earth from its creation to the events of The Lord of the Rings."
+    },
+    {
+        "userId": 10,
+        "id": 94,
+        "title": "The Children of Húrin",
+        "author": "J.R.R. Tolkien",
+        "rating": 4.5,
+        "body": "The tragic story of Túrin Turambar, a man cursed by the Dark Lord Morgoth, and his sister Niënor."
+    },
+    {
+        "userId": 10,
+        "id": 95,
+        "title": "Beren and Lúthien",
+        "author": "J.R.R. Tolkien",
+        "rating": 4.4,
+        "body": "The tale of Beren, a mortal man, and Lúthien, an elf princess, who defy fate and Morgoth's power to be together."
+    },
+    {
+        "userId": 10,
+        "id": 96,
+        "title": "The Fall of Gondolin",
+        "author": "J.R.R. Tolkien",
+        "rating": 4.3,
+        "body": "The story of the hidden city of Gondolin and its destruction by Morgoth's forces."
+    },
+    {
+        "userId": 10,
+        "id": 97,
+        "title": "The Adventures of Tom Bombadil",
+        "author": "J.R.R. Tolkien",
+        "rating": 4.2,
+        "body": "A collection of poems about Tom Bombadil, a mysterious and ancient being who lives in the Old Forest."
+    },
+    {
+        "userId": 10,
+        "id": 98,
+        "title": "The Road Goes Ever On",
+        "author": "J.R.R. Tolkien",
+        "rating": 4.1,
+        "body": "A collection of poems and songs from The Lord of the Rings and The Hobbit, set to music by Donald Swann."
+    },
+    {
+        "userId": 10,
+        "id": 99,
+        "title": "Smith of Wootton Major",
+        "author": "J.R.R. Tolkien",
+        "rating": 4.0,
+        "body": "A short story about a young boy who finds a magical star and enters the realm of Faery."
+    },
+    {
+        "userId": 10,
+        "id": 100,
+        "title": "Farmer Giles of Ham",
+        "author": "J.R.R. Tolkien",
+        "rating": 3.9,
+        "body": "A humorous tale about a farmer who becomes a hero after accidentally defeating a giant."
+    }
+    ]
+
