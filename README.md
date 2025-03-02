@@ -1,16 +1,16 @@
 # Online Library App
 
-##Description
+##Description:
 An online library system built with React.js, Redux Toolkit, React Router, and Tailwind CSS. Users can browse books by category, view book details, add new books, and search by title or author.
 
-##Features
+##Features:
 1. Home Page: Welcome message, book categories, popular books, and navigation links.
 2. Browse Books Page: Filter books by category, search books by title or author, and view details.
 3. Book Details Page: Displays book title, author, description, rating, and a "Back to Browse" button.
 4. Add Book Page: Form for adding books with Redux state management and form validation.
 5. 404 Page: Displays a "Page Not Found" message with a link back to the Home page.
 
-##Installation
+##Installation:
 1. Clone the repo:
    ```sh
    git clone https://github.com/yourusername/online-library-system.git
@@ -23,13 +23,13 @@ An online library system built with React.js, Redux Toolkit, React Router, and T
    ```sh
    npm start
 
-##Technologies Used
+##Technologies Used:
 1. React.js
 2. Redux Toolkit
 3. React Router
 4. Tailwind CSS
 
 
-##GitHub Repository
+##GitHub Repository:
 ```sh
 https://github.com/yourusername/online-library-system
